@@ -1,0 +1,22 @@
+1.yöntem
+http://api.zippopotam.us/  -> Api linki
+     / us / 90210 -> parametre
+
+2.Yöntem
+/public/v2/users
+      ?page=1    -> parametre
+
+search
+ ?
+ q=selenium
+ &sxsrf=ALiCzsatAuurS8Rt1FONk40zHXjJjna6tg%3A1664472470642
+ &source=hp
+
+
+https://sonuc.osym.gov.tr/Sorgu.aspx
+     ?
+     SonucID=9504
+
+metod(int sayi1, int sayi2)
+Zippopotamus- Zip Code Galore
+Zippopotamus

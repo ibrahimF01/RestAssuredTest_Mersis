@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Jenkins All Test Suite">
+    <test name="Main Test">
+        <classes>
+            <class name="Campus.DocumentTypes"></class>
+        </classes>
+    </test>
+</suite>
