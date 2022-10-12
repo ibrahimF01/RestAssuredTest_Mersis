@@ -122,7 +122,7 @@ public class DocumentTypes {
                 .delete("school-service/api/attachments/{documentID}")
                 .then()
                 .log().body()
-                .statusCode(200)
+                .statusCode(208)
 
         ;
 
